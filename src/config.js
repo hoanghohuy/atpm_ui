@@ -1,0 +1,4 @@
+export const API_URL = 'http://localhost:3001'
+export const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOm51bGwsIlN5c3RlbV9VbmlxdWVDb2RlIjoiVVZ2NXVNckZHQiIsIlN5c3RlbV9Vc2VyX0lzQWRtaW4iOnRydWUsIldlYnNpdGUiOiJuZ3VvaXF1YW5naWEudm4iLCJDcmVhdGVkRGF0ZSI6IjIwMjItMDYtMTQgMTY6NTM6MzciLCJpYXQiOjE2NTUyMDA0MTd9.3CJpZE-tHKm6R00vBdiM1YZOCrNRdtJKyYMTfuSvqVA'
+export const SUPPORT_MAIL = 'hotro@h3pay.vn'
+export const EXPIRED_TIME = 15

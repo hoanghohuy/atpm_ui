@@ -1,0 +1,47 @@
+.box-section-transaction {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 24px;
+}
+
+.transaction-card {
+    padding: 0 20px;
+    width: 40%;
+    background-color: #f5f7f9;
+    border-radius: 3px;
+}
+
+.transaction-card-title {
+    padding-top: 24px;
+    font-size: 24px;
+}
+
+.transaction-card-item {
+    padding-bottom: 20px;
+}
+
+.transaction-pay {
+    padding-left: 20px;
+    width: 60%;
+}
+
+.transaction-pay-title {
+    text-align: center;   
+    font-size: 24px;
+}
+
+.transaction-item-title {
+    font-size: 14px;
+    color: #5a7087;
+}
+
+.transaction-item-value {
+    font-size: 20px;
+}
+
+.btn-container {
+    display: flex;
+    gap: 10px;
+    justify-content: space-evenly;
+}
